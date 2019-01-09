@@ -1,0 +1,3 @@
+rootProject.name = 'CodeMashReactAR2'
+
+include ':app'
